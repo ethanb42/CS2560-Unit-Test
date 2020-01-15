@@ -10,7 +10,7 @@ protected:
 
 };
 
-//Refactored out of code, I commented it out to show it
+//Refactored out of code
 /*
 //Make sure google test works
 TEST(CheckoutTests, CanAssert) {
